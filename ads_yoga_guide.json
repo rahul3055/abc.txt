@@ -1,0 +1,27 @@
+{
+  "AdType": "facebook",
+  "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "NativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "count": "4",
+  "videocallReal": "1",
+  "paymentGatewayUPI":"0",
+  "RemovePayment":"1",
+  "PaymentLink":"encoreinfotech.com/Payout.php?amt=",
+  "upiID": "bajajpay.6879729.03032443@indus",
+  "inr": "99",
+  "wsUrl": "ws://142.93.210.180:8081",
+  "turn": "turn:68.183.80.79:3478",
+  "user": "username1",
+  "pass": "password1",
+  "p1": "1",
+  "p2": "199",
+  "p3": "299",
+  "p4": "399",
+  "videoLink": [
+    "https://envisioninfo.tech/hetech_apps/data/Videoes/Sanayee%20Mahabob_Sanayee%20Mahabob.mp4",
+    "https://envisioninfo.tech/hetech_apps/data/Videoes/Sanayee%20Mahabob_Sanayee%20Mahabob.mp4",
+    "https://envisioninfo.tech/hetech_apps/data/Videoes/Sanayee%20Mahabob_Sanayee%20Mahabob.mp4"
+  ]
+}
