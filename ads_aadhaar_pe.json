@@ -1,11 +1,11 @@
 {
    "AppName": "LMD_adhaepe_guide_Hindi",
   "AdType": "facebook",
-  "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Banner": "1469643427214495_1469643990547772",
   "Rectangle": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "Interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Interstitial": "1469643427214495_1469644107214427",
+  "Native": "1469643427214495_1469644267214411",
   "NativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "Rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "AdShowCounter": "5"
+  "AdShowCounter": "3"
 }
