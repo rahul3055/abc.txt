@@ -1,11 +1,12 @@
 {
-   "AppName": "LMD_Lovegle_video_Call",
+  "AppName": "LMD_Lovegle_video_Call",
   "AdType": "facebook",
-  "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Banner": "247959204871388_248658581468117",
   "Rectangle": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "Interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Interstitial": "247959204871388_248658931468082",
+  "Native": "247959204871388_248659411468034",
   "NativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "Rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "AdShowCounter": "1"
+  "AdShowCounter": "1",
+  "IsLiveCall": "true"
 }
