@@ -8,5 +8,10 @@
   "NativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "Rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "AdShowCounter": "1",
-  "IsLiveCall": "true"
+  "IsLiveCall": "true",
+  "FakeCallCounter": "3",
+  "Ws": "ws://64.227.139.108:8081",
+  "Turn": "turn:143.110.190.99:3478",
+  "Username": "username1",
+  "Password: "password1",
 }
