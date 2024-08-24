@@ -10,8 +10,8 @@
   "AdShowCounter": "1",
   "IsLiveCall": "true",
   "FakeCallCounter": "3",
-  "Ws": "ws://64.227.139.108:8081",
-  "Turn": "turn:143.110.190.99:3478",
+  "Ws": "ws://142.93.223.217:8081",
+  "Turn": "turn:139.59.2.135:3478",
   "Username": "username1",
   "Password": "password1"
 }
